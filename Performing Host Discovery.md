@@ -33,7 +33,23 @@ TCP ACK Ping Scan: This technique sends empty TCP ACK packets to the target host
 <img width="624" height="169" alt="image" src="https://github.com/user-attachments/assets/dadfd04e-d8de-4b35-a182-88756fbbb197" />
 
 IP Protocol Ping Scan: This technique sends different probe packets of different IP protocols to the target host, any response from any probe indicates that a host is active:
+
 <img width="624" height="120" alt="image" src="https://github.com/user-attachments/assets/13b6fbbb-c41f-49b2-bef5-eb70488ccfaf" />
 
-                                                           
-                                                             
+                                                           Task 2: Perform Host Discovery using Angry IP Scanner
+
+IP range in the angry ip scanner:
+
+<img width="624" height="216" alt="image" src="https://github.com/user-attachments/assets/710b82c0-e9cf-4f7b-8345-a579f64476c4" />
+
+Pinging method as Combined UDP+ TCP
+
+<img width="624" height="233" alt="image" src="https://github.com/user-attachments/assets/d017649c-13c7-4e8b-8e9e-c781823e7373" />
+
+Selecting section, select the Alive hosts (responding to pings) only in display tab:
+
+<img width="624" height="334" alt="image" src="https://github.com/user-attachments/assets/0874686b-0d8f-48d4-8219-1634118cacbd" />
+
+We start scanning, it will show us all the hosts that are up, You can see all active IP addresses with their hostnames listed in the main window.:
+
+<img width="263" height="161" alt="image" src="https://github.com/user-attachments/assets/ec7c43de-584a-447a-9534-71f0e07d9b95" />
